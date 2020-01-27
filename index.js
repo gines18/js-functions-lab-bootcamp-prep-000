@@ -1,3 +1,3 @@
 // write your code below!
-var name = "Happy holidays!"
+var name = 'Happy holidays!'
 console.log(name)
